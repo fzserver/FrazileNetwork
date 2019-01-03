@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297846778501",
+    "firebase_url": "https://frazile-0511.firebaseio.com",
+    "project_id": "frazile-0511",
+    "storage_bucket": "frazile-0511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297846778501:android:dfecfbf71928920f",
+        "android_client_info": {
+          "package_name": "com.frazile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297846778501-hkncl3e1qq3ohrb5dqrgqm87ikahh302.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6PJ0j10sDth9hIV0tKLlRJ2mLqs9V1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
